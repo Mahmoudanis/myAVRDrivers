@@ -1,0 +1,14 @@
+UART_DRIVER/UART_prog.o UART_DRIVER/UART_prog.o:  \
+ ../UART_DRIVER/UART_prog.c ../UART_DRIVER/../LIB/STD_TYPES.h \
+  ../UART_DRIVER/../LIB/BIT_MATH.h ../UART_DRIVER/UART_interface.h \
+  ../UART_DRIVER/UART_CFG.h ../UART_DRIVER/UART_private.h
+
+../UART_DRIVER/../LIB/STD_TYPES.h:
+
+../UART_DRIVER/../LIB/BIT_MATH.h:
+
+../UART_DRIVER/UART_interface.h:
+
+../UART_DRIVER/UART_CFG.h:
+
+../UART_DRIVER/UART_private.h:
